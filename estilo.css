@@ -1,0 +1,26 @@
+.botao1 {
+
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.botao2 {
+    
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+#resposta {
+
+    margin-left: 20px;
+
+}
